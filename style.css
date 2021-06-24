@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  font-family: comic;
+}
+.flex-container{
+  display: flex;
+  justify-content: space-around;
+  height: 500px;
+  opacity: 0.83;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,76,115,1) 35%, rgba(0,212,255,1) 100%);
+  color:#fff;
+}
+.flex-container img{
+  border-radius: 75%;
+}
+.flex-container{
+  font-size: 30;
+  margin-bottom: 100px;
+}
